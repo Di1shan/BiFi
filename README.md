@@ -51,4 +51,4 @@ BiFi stores financial information locally on the device. It does not require an 
 
 ## Author
 
-Created by Dilshan Witharanage as a SwiftUI own hobby project.
+Created by Dilshan Witharanage as a SwiftUI hobby project.
