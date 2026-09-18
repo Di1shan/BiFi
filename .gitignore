@@ -1,15 +1,5 @@
-# Xcode
-DerivedData/
-build/
-*.xcuserstate
-xcuserdata/
-
-# macOS
 .DS_Store
-
-# Swift Package Manager
-.build/
-.swiftpm/
-
-# Logs
-*.log
+build.log
+xcuserdata/
+*.xcuserstate
+DerivedData/
