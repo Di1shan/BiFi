@@ -141,3 +141,7 @@ The app fully supports dark mode. Users can configure:
 - No exchange rates or currency conversion - each currency is tracked independently
 - All transactions are persisted locally using SwiftData
 - Categories can be deleted (transactions become uncategorized)
+
+## Contributing
+
+Contributions and suggestions are welcome. If you would like to improve the project, you can create a branch, make your changes, and submit a pull request for review.
